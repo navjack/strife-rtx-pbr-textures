@@ -2,8 +2,8 @@
 <shadermap_project>
     <header>
         <version v="4;3;6" />
-        <node_count v="7" />
-        <node_cur_sel v="2" />
+        <node_count v="12" />
+        <node_cur_sel v="11" />
         <user_project_grid_col_count v="5" />
         <material_count v="3" />
         <map_mask_count v="0" />
@@ -12,7 +12,7 @@
         <user_geo_count v="0" />
         <geo_max_instance_count v="10" />
         <last_open_directory v="N:\strife-rtx-reorg\assets\Materials\waltek03" />
-        <last_save_directory v="N:\strife-rtx-reorg\assets\Materials\walgry06" />
+        <last_save_directory v="N:\strife-rtx-reorg\assets\Materials\waltek03" />
         <map_normal_radar_sample_count v="360" />
     </header>
     <node_0>
@@ -58,10 +58,10 @@
         <plugin_version v="301" />
         <plugin_type v="1" />
         <is_locked v="0" />
-        <output_file_path v="" />
+        <output_file_path v="N:\strife-rtx-reorg\assets\Materials\waltek03\WALTEK03-norm" />
         <output_format v="12" />
         <input_count v="1" />
-        <input_index_list v="3" />
+        <input_index_list v="10" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <input_filter_data_0 v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
@@ -74,7 +74,7 @@
         <prop_3 type="7" value="0" />
         <prop_4 type="7" value="0" />
         <prop_5 type="7" value="0" />
-        <prop_6 type="2" value="0" />
+        <prop_6 type="2" value="1" />
         <prop_7 type="2" value="0" />
         <prop_8 type="2" value="1" />
         <prop_9 type="2" value="0" />
@@ -125,36 +125,6 @@
         <n_editor_layer_count v="0" />
     </node_2>
     <node_3>
-        <project_grid_col v="4" />
-        <project_grid_row v="0" />
-        <node_type v="1" />
-        <alpha_state v="0" />
-        <is_auto_render v="1" />
-        <channel_toggle_state v="9" />
-        <is_embed_in_texture v="0" />
-        <is_embed_on_export v="1" />
-        <plugin_file_name v="src_disp_map.smp" />
-        <plugin_version v="102" />
-        <plugin_type v="0" />
-        <is_locked v="0" />
-        <output_file_path v="" />
-        <output_format v="18" />
-        <is_input_filter_auto_update v="0" />
-        <is_input_filter_toggle_original v="0" />
-        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
-        <map_mask i="-1" f="" />
-        <prop_count v="2" />
-        <prop_page_counts v="2;" />
-        <prop_0 type="3" value="0" />
-        <prop_1 type="7" value="0" />
-        <coord_system v="0" />
-        <tile_type v="0" />
-        <source_file_path v="WALTEK03-disphelp.png" />
-        <pre_filter_count v="0" />
-        <post_filter_count v="0" />
-        <n_editor_layer_count v="0" />
-    </node_3>
-    <node_4>
         <project_grid_col v="2" />
         <project_grid_row v="1" />
         <node_type v="1" />
@@ -194,8 +164,8 @@
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
-    </node_4>
-    <node_5>
+    </node_3>
+    <node_4>
         <project_grid_col v="3" />
         <project_grid_row v="1" />
         <node_type v="1" />
@@ -224,8 +194,8 @@
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
-    </node_5>
-    <node_6>
+    </node_4>
+    <node_5>
         <project_grid_col v="0" />
         <project_grid_row v="0" />
         <node_type v="1" />
@@ -241,7 +211,7 @@
         <output_file_path v="" />
         <output_format v="10" />
         <input_count v="3" />
-        <input_index_list v="0;5;2" />
+        <input_index_list v="0;4;2" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
         <input_filter_data_0 v="0.00000;1.00000;0.00000;0.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
@@ -257,11 +227,198 @@
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
+    </node_5>
+    <node_6>
+        <project_grid_col v="1" />
+        <project_grid_row v="0" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="15" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="src_color_texture.smp" />
+        <plugin_version v="102" />
+        <plugin_type v="0" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="18" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="2" />
+        <prop_page_counts v="2;" />
+        <prop_0 type="3" value="0" />
+        <prop_1 type="7" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <source_file_path v="WALTEK03-emis.exr" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
     </node_6>
+    <node_7>
+        <project_grid_col v="1" />
+        <project_grid_row v="3" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="src_disp_map.smp" />
+        <plugin_version v="102" />
+        <plugin_type v="0" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="18" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="2" />
+        <prop_page_counts v="2;" />
+        <prop_0 type="3" value="0" />
+        <prop_1 type="7" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <source_file_path v="WALTEK03-rough.png" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_7>
+    <node_8>
+        <project_grid_col v="0" />
+        <project_grid_row v="3" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="src_disp_map.smp" />
+        <plugin_version v="102" />
+        <plugin_type v="0" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="18" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="2" />
+        <prop_page_counts v="2;" />
+        <prop_0 type="3" value="0" />
+        <prop_1 type="7" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <source_file_path v="WALTEK03-spec.png" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_8>
+    <node_9>
+        <project_grid_col v="2" />
+        <project_grid_row v="3" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="src_disp_map.smp" />
+        <plugin_version v="102" />
+        <plugin_type v="0" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="18" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="2" />
+        <prop_page_counts v="2;" />
+        <prop_0 type="3" value="0" />
+        <prop_1 type="7" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <source_file_path v="WALTEK03-metalhelp.png" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_9>
+    <node_10>
+        <project_grid_col v="4" />
+        <project_grid_row v="0" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="src_disp_map.smp" />
+        <plugin_version v="102" />
+        <plugin_type v="0" />
+        <is_locked v="0" />
+        <output_file_path v="" />
+        <output_format v="18" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="2" />
+        <prop_page_counts v="2;" />
+        <prop_0 type="3" value="0" />
+        <prop_1 type="7" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <source_file_path v="WALTEK03-disphelp.tif" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_10>
+    <node_11>
+        <project_grid_col v="4" />
+        <project_grid_row v="3" />
+        <node_type v="1" />
+        <alpha_state v="0" />
+        <is_auto_render v="1" />
+        <channel_toggle_state v="9" />
+        <is_embed_in_texture v="0" />
+        <is_embed_on_export v="1" />
+        <plugin_file_name v="map_disp_to_ao_3.smp" />
+        <plugin_version v="301" />
+        <plugin_type v="1" />
+        <is_locked v="0" />
+        <output_file_path v="N:\strife-rtx-reorg\assets\Materials\waltek03\WALTEK03-AO" />
+        <output_format v="10" />
+        <input_count v="1" />
+        <input_index_list v="10" />
+        <is_input_filter_auto_update v="0" />
+        <is_input_filter_toggle_original v="0" />
+        <input_filter_data_0 v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <map_mask i="-1" f="" />
+        <prop_count v="8" />
+        <prop_page_counts v="8;" />
+        <prop_0 type="4" value="16" />
+        <prop_1 type="5" value="5.00000" />
+        <prop_2 type="5" value="0.01000" />
+        <prop_3 type="5" value="0.15000" />
+        <prop_4 type="5" value="1.25000" />
+        <prop_5 type="7" value="35" />
+        <prop_6 type="2" value="1" />
+        <prop_7 type="2" value="0" />
+        <coord_system v="0" />
+        <tile_type v="0" />
+        <pre_filter_count v="0" />
+        <post_filter_count v="0" />
+        <n_editor_layer_count v="0" />
+    </node_11>
     <material_0>
         <file_name v="202.displacement.xml" />
         <material_grid_position v="0" />
-        <map_index_list v="-1;3;1;2;-1;-1;-1" />
+        <map_index_list v="-1;10;1;8;11;6;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
@@ -285,7 +442,7 @@
     <material_1>
         <file_name v="501.pbr.xml" />
         <material_grid_position v="1" />
-        <map_index_list v="6;1;4;5;-1;-1;-1;-1;-1" />
+        <map_index_list v="5;1;7;9;11;6;-1;-1;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
@@ -368,17 +525,15 @@
         <cur_sel_instance v="-1" />
         <cur_sel_material_grid_position v="1" />
         <material_index_list v="1;-1;-1;-1;-1;-1;-1;-1;-1;-1" />
-        <rotation_array v="0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821" />
+        <rotation_array v="0.00000000,0.00000000,0.00000000,1.00000000;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821;0.00000000,-0.96549499,0.00000000,-0.26019821;0.00000000,0.96549499,0.00000000,-0.26019821" />
     </default_geo_3>
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;102.58654785;182.21997070;1.83258450;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;102.58654785;167.53771973;-45.62377930;164.00000000" />
         <light_ambient v="986895" />
-        <light_count v="3" />
-        <light_0 color="14803425" rotation="-0.06199687;0.00202695;0.02760003;0.99769217" />
-        <light_1 color="2105386" rotation="-0.39438251;-0.54233545;-0.16456610;0.72336197" />
-        <light_2 color="4136713" rotation="-0.40528437;0.48819959;0.16960078;0.75408304" />
+        <light_count v="1" />
+        <light_0 color="14803425" rotation="-0.41642952;-0.01880527;0.02653515;0.90858567" />
         <cur_env_filename v="Studio" />
         <is_render_env v="1" />
         <env_blur v="0.20000" />

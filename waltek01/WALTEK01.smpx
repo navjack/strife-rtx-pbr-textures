@@ -3,7 +3,7 @@
     <header>
         <version v="4;3;6" />
         <node_count v="8" />
-        <node_cur_sel v="7" />
+        <node_cur_sel v="1" />
         <user_project_grid_col_count v="0" />
         <material_count v="3" />
         <map_mask_count v="0" />
@@ -74,7 +74,7 @@
         <prop_3 type="7" value="0" />
         <prop_4 type="7" value="0" />
         <prop_5 type="7" value="0" />
-        <prop_6 type="2" value="1" />
+        <prop_6 type="2" value="0" />
         <prop_7 type="2" value="0" />
         <prop_8 type="2" value="1" />
         <prop_9 type="2" value="0" />
@@ -141,7 +141,7 @@
         <output_format v="12" />
         <is_input_filter_auto_update v="0" />
         <is_input_filter_toggle_original v="0" />
-        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;40.00000;60.00000;40.00000;60.00000;20.00000;80.00000;0.00000;0.00000" />
+        <source_input_filter_data v="0.00000;1.00000;0.00000;1.00000;100.00000;100.00000;100.00000;100.00000;100.00000;100.00000;0.00000;0.00000" />
         <map_mask i="-1" f="" />
         <prop_count v="2" />
         <prop_page_counts v="2;" />
@@ -149,7 +149,7 @@
         <prop_1 type="7" value="0" />
         <coord_system v="0" />
         <tile_type v="0" />
-        <source_file_path v="WALTEK01-disphelp2.png" />
+        <source_file_path v="WALTEK01-disphelp12.tif" />
         <pre_filter_count v="0" />
         <post_filter_count v="0" />
         <n_editor_layer_count v="0" />
@@ -306,7 +306,7 @@
     <material_0>
         <file_name v="501.pbr.xml" />
         <material_grid_position v="0" />
-        <map_index_list v="0;1;4;5;-1;-1;-1;-1;-1" />
+        <map_index_list v="0;1;4;5;7;-1;-1;-1;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
@@ -329,7 +329,7 @@
     <material_1>
         <file_name v="202.displacement.xml" />
         <material_grid_position v="1" />
-        <map_index_list v="0;-1;1;2;-1;-1;-1" />
+        <map_index_list v="0;3;1;2;7;-1;-1" />
         <is_flip_u v="0" />
         <is_flip_v v="0" />
         <tile_u v="1.00000" />
@@ -407,7 +407,7 @@
     </default_geo_2>
     <default_geo_3>
         <name v="Dynamic Plane" />
-        <is_tessellated v="0" />
+        <is_tessellated v="1" />
         <instance_count v="1" />
         <distance_offset v="0" />
         <cur_sel_instance v="-1" />
@@ -418,12 +418,10 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;164.00000000;137.49790955;7.94119549;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;97.64334869;177.17074585;15.69446182;164.00000000" />
         <light_ambient v="986895" />
-        <light_count v="3" />
-        <light_0 color="14803425" rotation="-0.05463728;0.33760899;-0.06936422;0.93713588" />
-        <light_1 color="2105386" rotation="-0.12333662;-0.55830216;-0.08437912;0.81606799" />
-        <light_2 color="4136713" rotation="-0.12333662;0.55830216;0.08437912;0.81606799" />
+        <light_count v="1" />
+        <light_0 color="14803425" rotation="-0.14723755;0.03216267;0.04138920;0.98771143" />
         <cur_env_filename v="Studio" />
         <is_render_env v="1" />
         <env_blur v="0.20000" />
