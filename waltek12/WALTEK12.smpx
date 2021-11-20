@@ -3,7 +3,7 @@
     <header>
         <version v="4;3;6" />
         <node_count v="7" />
-        <node_cur_sel v="5" />
+        <node_cur_sel v="1" />
         <user_project_grid_col_count v="0" />
         <material_count v="3" />
         <map_mask_count v="0" />
@@ -388,7 +388,7 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;107.45977783;191.99246216;-43.35836411;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;107.45977783;216.51672363;-42.54123306;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="1" />
         <light_0 color="14803425" rotation="-0.45859665;-0.33252448;-0.14001456;0.81210399" />
