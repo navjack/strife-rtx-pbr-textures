@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <shadermap_project>
     <header>
-        <version v="4;3;6" />
+        <version v="4;3;7" />
         <node_count v="8" />
-        <node_cur_sel v="7" />
+        <node_cur_sel v="5" />
         <user_project_grid_col_count v="0" />
         <material_count v="2" />
         <map_mask_count v="2" />
@@ -382,7 +382,7 @@
     <matviz_settings>
         <editor_state v="1" />
         <geo_cur_sel v="3" />
-        <camera_orientation v="0.00000000;0.00000000;0.00000000;102.34265900;139.60794067;19.34663773;164.00000000" />
+        <camera_orientation v="0.00000000;0.00000000;0.00000000;102.34265900;181.96574402;-0.62843961;164.00000000" />
         <light_ambient v="986895" />
         <light_count v="1" />
         <light_0 color="14803425" rotation="-0.06380402;-0.01160583;-0.03845456;0.99715400" />
